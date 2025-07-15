@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Unemployment Tracker",
+  "version": "1.0.0",
+  "description": "Track your job applications",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": []
+}
